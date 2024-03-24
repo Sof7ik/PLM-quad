@@ -1,1 +1,3 @@
 source_two-master
+*.log
+*.bak
